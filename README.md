@@ -16,4 +16,5 @@ equipping myself to build scalable and efficient cloud solutions.
 👩‍🏫 EdTech Leadership: Spent several years as an impactful faculty member, inspiring and mentoring aspiring tech professionals.Guided learners in industry-ready projects, fostering creativity, technical acumen, and a passion for innovation.
 
 💬 Let’s Collaborate!  I’m open to connecting on Cloud Computing, AWS projects, Software Engineering, and EdTech initiatives.
+
 📩 Reach me at: raj.kalpana0705@gmail.com
