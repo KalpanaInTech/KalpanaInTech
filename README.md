@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Kalpana.
-🚀Passionate Cloud Enthusiast | 💡EdTech Advocate | 🎓Gold Medalist in Masters of Computer Engineering
+🚀Passionate Cloud Enthusiast |🤖 AI Obsessed Innovator |💡EdTech Advocate | 🎓Gold Medalist in Masters of Computer Engineering
 
 With a strong foundation in advanced computing concepts and practices,
 I am currently channeling my passion for technology into mastering Cloud Computing through the AWS re/Start program,
@@ -15,6 +15,8 @@ equipping myself to build scalable and efficient cloud solutions.
 
 👩‍🏫 EdTech Leadership: Spent several years as an impactful faculty member, inspiring and mentoring aspiring tech professionals.Guided learners in industry-ready projects, fostering creativity, technical acumen, and a passion for innovation.
 
-💬 Let’s Collaborate!  I’m open to connecting on Cloud Computing, AWS projects, Software Engineering, and EdTech initiatives.
+💬 Let’s Collaborate!  I’m open to connecting on Cloud Computing, AI tools and technology, Promt Engineering, AWS projects, Software Engineering, and EdTech initiatives.
 
 📩 Reach me at: raj.kalpana0705@gmail.com
+💼 DM me on LinkedIn: https://www.linkedin.com/in/kalpana-raj/
+
