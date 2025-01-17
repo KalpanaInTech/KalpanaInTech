@@ -18,5 +18,6 @@ equipping myself to build scalable and efficient cloud solutions.
 💬 Let’s Collaborate!  I’m open to connecting on Cloud Computing, AI tools and technology, Promt Engineering, AWS projects, Software Engineering, and EdTech initiatives.
 
 📩 Reach me at: raj.kalpana0705@gmail.com
+
 💼 DM me on LinkedIn: https://www.linkedin.com/in/kalpana-raj/
 
