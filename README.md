@@ -10,7 +10,7 @@
 
 🏆 Key Achievements :
 
-👩‍💻 Cloud Engineering Expertise: Contributed to multiple industry cloud projects, leading end-to-end SDLC phases with a focus on cost optimization and innovation.   
+👩‍💻 Cloud Expertise: Contributed to multiple industry cloud projects, leading end-to-end SDLC phases with a focus on cost optimization and innovation.   
 🎖️ Gold Medalist: Master's in Computer Engineering, specializing in cloud resource provisioning.     
 ☁️ AWS re/Start Graduate: Successfully deployed a cloud-based solution for NGF Europe, optimizing their operations.      
 👩‍🏫 EdTech Leadership: Former Lecturer & Industry Mentor—guided students in industry-ready projects, fostering technical excellence and creativity.
