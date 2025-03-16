@@ -1,23 +1,22 @@
-Hi there! 👋 I'm Kalpana.
-🚀Passionate Cloud Enthusiast |🤖 AI Obsessed Innovator |💡EdTech Advocate | 🎓Gold Medalist in Masters of Computer Engineering
+  Hi there! 👋                      I'm Kalpana.   
+  
+🚀Passionate Cloud Engineer |🤖 AI Obsessed Innovator |💡Ex-EdTech Advocate | 🎓Gold Medalist in Masters of Computer Engineering
 
-With a strong foundation in advanced computing concepts and practices,
-I am currently channeling my passion for technology into mastering Cloud Computing through the AWS re/Start program,
-equipping myself to build scalable and efficient cloud solutions.
+🔥 What I Do : 
 
-🌟 Key Highlights:
+🔹 Cloud & DevOps: Designing scalable, cost-efficient, and secure cloud solutions using AWS.             
+🔹 Software Development: Hands-on experience in full-stack development, microservices, and open-source technologies.          
+🔹 Automation & CI/CD: Building pipelines, IaC (CloudFormation/Terraform), and containerised deployments.
 
-🎖️ Academic Excellence: Achieved a Master's in Computer Science with Distinction, earning a prestigious Gold Medal for outstanding performance.
+🏆 Key Achievements :
 
-👩‍💻 Software Development Expertise: Successfully completed diverse software engineering projects,contributing to all phases of the Software Development Life Cycle (SDLC) with a focus on delivering robust and innovative solutions.
+👩‍💻 Cloud Engineering Expertise: Contributed to multiple industry cloud projects, leading end-to-end SDLC phases with a focus on cost optimization and innovation.   
+🎖️ Gold Medalist: Master's in Computer Engineering, specializing in cloud resource provisioning.     
+☁️ AWS re/Start Graduate: Successfully deployed a cloud-based solution for NGF Europe, optimizing their operations.      
+👩‍🏫 EdTech Leadership: Former Lecturer & Industry Mentor—guided students in industry-ready projects, fostering technical excellence and creativity.
 
-☁️ Cloud Proficiency: Skilled in AWS services, including cloud deployment, networking, and optimising solutions for scalability, cost-efficiency and high performance in dynamic environments.
+💬 Let’s Collaborate!  I’m open to connecting on Cloud, AI, DevOps, AWS , Software projects, and EdTech initiatives.
 
-👩‍🏫 EdTech Leadership: Spent several years as an impactful faculty member, inspiring and mentoring aspiring tech professionals.Guided learners in industry-ready projects, fostering creativity, technical acumen, and a passion for innovation.
-
-💬 Let’s Collaborate!  I’m open to connecting on Cloud Computing, AI tools and technology, Promt Engineering, AWS projects, Software Engineering, and EdTech initiatives.
-
-📩 Reach me at: raj.kalpana0705@gmail.com
-
+📩 Reach me at: raj.kalpana0705@gmail.com  
 💼 DM me on LinkedIn: https://www.linkedin.com/in/kalpana-raj/
 
